@@ -1,10 +1,10 @@
 {
   "urls": [
-    ["filefifo.py", "https://gitlab.metropolia.fi/lansk/mp-lib/filefifo.py"],	
-    ["fifo.py", "https://gitlab.metropolia.fi/lansk/mp-lib/fifo.py"],
-    ["piotimer.py", "https://gitlab.metropolia.fi/lansk/mp-lib/piotimer.py"],
-    ["led.py", "https://gitlab.metropolia.fi/lansk/mp-lib/led.py"],
-    ["ssd1306.mpy", "https://gitlab.metropolia.fi/lansk/mp-lib/ssd1306.mpy"]
+    ["filefifo.py", "github:metrokeijo/mp-lib/filefifo.py"],	
+    ["fifo.py", "github:metrokeijo/mp-lib/fifo.py"],
+    ["piotimer.py", "github:metrokeijo/mp-lib/piotimer.py"],
+    ["led.py", "github:metrokeijo/mp-lib/led.py"],
+    ["ssd1306.mpy", "github:metrokeijo/mp-lib/ssd1306.mpy"]
   ],
   "deps": [
   ],
