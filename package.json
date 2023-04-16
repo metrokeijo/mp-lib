@@ -1,10 +1,10 @@
 {
   "urls": [
-    ["filefifo.py", "http://localhost:8000/filefifo.py"],	
-    ["fifo.py", "http://localhost:8000/fifo.py"],
-    ["piotimer.py", "http://localhost:8000/piotimer.py"],
-    ["led.py", "http://localhost:8000/led.py"],
-    ["ssd1306.mpy", "http://localhost:8000/ssd1306.mpy"]
+    ["filefifo.py", "https://gitlab.metropolia.fi/lansk/mp-lib/filefifo.py"],	
+    ["fifo.py", "https://gitlab.metropolia.fi/lansk/mp-lib/fifo.py"],
+    ["piotimer.py", "https://gitlab.metropolia.fi/lansk/mp-lib/piotimer.py"],
+    ["led.py", "https://gitlab.metropolia.fi/lansk/mp-lib/led.py"],
+    ["ssd1306.mpy", "https://gitlab.metropolia.fi/lansk/mp-lib/ssd1306.mpy"]
   ],
   "deps": [
   ],
